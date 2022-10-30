@@ -7,4 +7,4 @@ def main(s):
         int: answer
     """
     
-    return s.find('a')
+    return s.count('a')
